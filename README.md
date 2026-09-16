@@ -1,1 +1,1 @@
-# release
+# Release repository for binaries
